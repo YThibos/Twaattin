@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Twaattin:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Twaattin-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Twaattin:war exploded" />
+    </root>
+  </artifact>
+</component>
